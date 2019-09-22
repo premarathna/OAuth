@@ -5,8 +5,9 @@ This repository contains a project that demonstrates the use of OAuth 2.0 framew
 
 How to run this project:
 
-First you need clone this project.
-Then go to the folder where you cloned the files,
-After that open up command prompt and enter following commands: npm install, npm start
-Wait till all the node modules are installed before executing "npm start" command. It may take some time to install all the modules.
-After executing 'npm start' command the project will start on port 3000 if there is no other service running on this port already. Otherwise it will ask you whether to start the server on a different port.
+1. First you need clone this project.
+2. Then go to the folder where you cloned the files,After that open up command prompt and enter following commands: npm install, npm start
+    Wait till all the node modules are installed before executing "npm start" command. 
+3. It may take some time to install all the modules.
+4. After executing 'npm start' command the project will start on port 3000 if there is no other service running on this port already. 
+5. Otherwise it will ask you whether to start the server on a different port.
